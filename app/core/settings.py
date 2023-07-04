@@ -9,7 +9,6 @@ ENV_FILE = BASE_DIR.joinpath(".env")
 
 class Settings(BaseSettings):
     """Настройки проекта."""
-    APPLICATION_URL: str
     POSTGRES_DB: str
     POSTGRES_USER: str
     POSTGRES_PASSWORD: str

@@ -24,7 +24,6 @@ cd FastAPI_posts
 
 - Создать и заполнить по образцу .env-файл
 ```
-APPLICATION_URL=<...>
 POSTGRES_DB=<...>
 POSTGRES_USER=<...>
 POSTGRES_PASSWORD=<...>
